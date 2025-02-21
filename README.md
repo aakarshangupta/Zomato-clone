@@ -48,7 +48,7 @@ Make sure you have the following installed:
 
 
 ## 👨‍💻 Contributors
-- **Your Name** – [GitHub Profile](https://github.com/aakarshangupta)
+- **@aakarshangupta** – [GitHub Profile](https://github.com/aakarshangupta)
 
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
