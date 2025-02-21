@@ -1,1 +1,3 @@
 # Zomato-clone
+This is an internship work for Edunet Foundation course for Web Development on the topic " A Service for Delivering Food (Zomato Clone) with MERN Technology (P3)"
+The Food Delivery Application platform project is designed to create a platform where users can browse, select, purchase, and manage products with secure user login. The platform ensures that any actions taken by the user, such as adding food items & adding restaurant list, are instantly updated and reflected in the user’s account. This project will provide you with hands-on experience in implementing user authentication, order details & check restaurant details information, using the MERN stack (MongoDB, Express.js, React.js, Node.js).
